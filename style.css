@@ -1,0 +1,113 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#contactbar {
+  width: 100%;
+  float: left;
+  background-color: rgb(205, 92, 92);
+}
+.fa-phone,
+.fa-envelope {
+  padding-right: 10px;
+}
+.contact_details li {
+  list-style: none;
+  display: inline-block;
+  margin-right: 10px;
+  padding-top: 5px;
+}
+.contact {
+  padding-right: 10px;
+}
+.row {
+  height: 175px;
+  width: 100%;
+}
+.header-img {
+  width: 60%;
+  padding-top: 10px;
+  margin-left: 85px;
+}
+
+.nav-item {
+  padding-right: 16px;
+  padding-left: 10px;
+  font-family: "Noto Sans JP";
+}
+
+.nav-item :hover {
+  color: white;
+  background-color: rgb(205, 92, 92);
+  border-radius: 10px;
+}
+.dropdown-item:hover {
+  background-color: white;
+}
+.nav-link {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.carousel-item {
+  height: 426px;
+}
+.row3 {
+  background-color: rgb(205, 92, 92);
+}
+.our-vision {
+  color: white;
+  font-family: "Noto Sans JP";
+}
+.col-md-4,
+.col-md-8 {
+  padding-top: 50px;
+  padding-left: 40px;
+}
+.text-left {
+  font-family: "Noto Sans JP";
+}
+
+.container-fluid {
+  height: 330px;
+}
+
+.company-row {
+  padding-left: 150px;
+}
+.company-section-1 {
+  height: 250px;
+  padding-top: 50px;
+}
+
+.company-section-2 {
+  height: 250px;
+  padding-top: 50px;
+}
+.Company-section {
+  height: 500px;
+}
+
+.our-recruters {
+  padding: 20px;
+}
+.col-lg-3 {
+  padding-top: 0px;
+  padding-left: 40px;
+}
+.footer-row {
+  height: 230px;
+  width: 100%;
+}
+.page-footer {
+  background-color: rgb(83, 95, 119);
+  color: white;
+}
+.footer-link {
+  color: white;
+}
+
+.footer-link:hover {
+  color: yellow;
+}
